@@ -76,7 +76,6 @@ object Process {
         res += measure(outputPath)
       }
 
-
       // This is a DP problem, but today I am lazy   (=
 
       println(res)
